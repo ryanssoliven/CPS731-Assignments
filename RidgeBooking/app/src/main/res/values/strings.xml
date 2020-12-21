@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ridge Farm Trip Booking</string>
+    <string name="hint">No. Tickets</string>
+    <string name="singlePass">Single Pass Ticket ($15 per Ticket)</string>
+    <string name="seasonPass">Season Pass Ticket ($40 per Ticket)</string>
+    <string name="btnConvert">Reserve</string>
+    <string name="ridge_farm_trip_booking">Ridge Farm Trip Booking</string>
+    <string name="select_a_date">Select a date</string>
+    <string name="todow">TODOw</string>
+</resources>

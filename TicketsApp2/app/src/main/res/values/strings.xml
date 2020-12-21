@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Taxi Fare App</string>
+    <string name="tickets_vault">Taxi Fare App</string>
+    <string name="number_of_tickets">Distance in KMs</string>
+    <string name="txtbutton">Calculate Your Fare</string>
+    <string name="textview">TextView</string>
+    <string name="distance_in_kms"></string>
+    <string name="todo">TODO</string>
+    <string name="initial_fee_3_00">Initial Fee $3.00</string>
+    <string-array name="ticktsgroup">
+        <item>Smart</item>
+        <item>Sedan</item>
+        <item>SUV</item>
+    </string-array>
+</resources>

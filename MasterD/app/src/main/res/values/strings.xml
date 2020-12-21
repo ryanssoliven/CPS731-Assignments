@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MasterD</string>
+    <string name="title_recipe_list">Recipes</string>
+    <string name="title_recipe_detail">Recipe Detail</string>
+    <string name="todo">TODO</string>
+</resources>
